@@ -1,0 +1,14 @@
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\bin\Debug\net8.0\FPSconsoleGame.exe
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\bin\Debug\net8.0\FPSconsoleGame.deps.json
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\bin\Debug\net8.0\FPSconsoleGame.runtimeconfig.json
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\bin\Debug\net8.0\FPSconsoleGame.dll
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\bin\Debug\net8.0\FPSconsoleGame.pdb
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.AssemblyInfoInputs.cache
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.AssemblyInfo.cs
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.csproj.CoreCompileInputs.cache
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.dll
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\refint\FPSconsoleGame.dll
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.pdb
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.genruntimeconfig.cache
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\ref\FPSconsoleGame.dll
