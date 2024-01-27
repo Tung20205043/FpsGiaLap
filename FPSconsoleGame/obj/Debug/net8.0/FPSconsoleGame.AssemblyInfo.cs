@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FPSconsoleGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f751f62c1d589df05c0b092c01a285a733bed61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d737c7b97142e2843533debfcf662f3b0679525")]
 [assembly: System.Reflection.AssemblyProductAttribute("FPSconsoleGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FPSconsoleGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
