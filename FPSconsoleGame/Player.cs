@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace FPSconsoleGame {
-    internal class Player {
+    public class Player {
+        
     }
 }

@@ -12,3 +12,4 @@ D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\refint\FPSconsoleGam
 D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.pdb
 D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.genruntimeconfig.cache
 D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\ref\FPSconsoleGame.dll
+D:\C#\Hw-ss8\FPSconsoleGame\FPSconsoleGame\obj\Debug\net8.0\FPSconsoleGame.sourcelink.json
